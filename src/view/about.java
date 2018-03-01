@@ -83,9 +83,9 @@ public class about extends javax.swing.JDialog {
 
         jLabel8.setText("http : smpn28kotabekasi.go.id");
 
-        jLabel9.setText("Fax : (021) 84304472");
+        jLabel9.setText("Fax     : (021) 84304472");
 
-        jLabel10.setText("emai; : smpn_dupan@yahoo.co.id");
+        jLabel10.setText("email : smpn_dupan@yahoo.co.id");
 
         jLabel11.setText("Active Form :");
 

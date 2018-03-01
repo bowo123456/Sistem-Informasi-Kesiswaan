@@ -213,12 +213,12 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel9">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Fax : (021) 84304472"/>
+        <Property name="text" type="java.lang.String" value="Fax     : (021) 84304472"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel10">
       <Properties>
-        <Property name="text" type="java.lang.String" value="emai; : smpn_dupan@yahoo.co.id"/>
+        <Property name="text" type="java.lang.String" value="email : smpn_dupan@yahoo.co.id"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel11">
